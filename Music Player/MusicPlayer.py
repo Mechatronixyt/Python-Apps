@@ -1,3 +1,8 @@
+# creator: @Mechatronix
+# date: 20.03.2021
+# lisencs: MIT
+# contact: mechatronix@mail.de
+
 from tkinter import Tk, Label, Button, filedialog
 
 from pygame import mixer
